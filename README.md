@@ -3,6 +3,9 @@
 <h3 align="center">A passionate full-stack developer from India who has keen interest in UI/UX as well.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zireal23&label=Profile%20views&color=0e75b6&style=flat" alt="zireal23" /> </p>
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=god_zeus" width="400"/>
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zireal23" alt="zireal23" /></a> </p>
 
